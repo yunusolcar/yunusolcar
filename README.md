@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Yunus
-#### I am Backend Developer
-<img src="https://drive.google.com/file/d/1qRpCu0LhtQt-zatb41xNbuKqTYB0yn_j/view?usp=sharing")</img>
+#### Level 2 Backend Dev.
+![Level 2 Backend Dev.](https://github.com/yunusolcar/php-camp/blob/master/Html/v1-banner-970x250.1657999755-62d3118b6bfcc.jpg)
 
-This is my code world. I try myself here, I learn all the time. Of course, I do not neglect to have fun 😉
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: PHP / SQL / JS / HTML / CSS
+Skills: PHP/ JS / HTML / CSS / SQL
 
 - 🔭 I’m currently working on this page. 
 
