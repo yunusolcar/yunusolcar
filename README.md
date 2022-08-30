@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working.
 
-Skills: PHP/ JS / HTML / CSS / SQL
+Skills: PHP / JS / SQL / HTML / CSS 
 
 
 
