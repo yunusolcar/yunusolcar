@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Yunus
+### Hello there 👋
 #### JR. Backend Dev.
 ![Level 2 Backend Dev.](https://github.com/yunusolcar/php-camp/blob/master/Html/v1-banner-970x250.1657999755-62d3118b6bfcc.jpg)
 
-- 🔭 I’m currently working.
+
 
 Skills: PHP / JS / SQL / HTML / CSS 
 
