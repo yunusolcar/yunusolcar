@@ -8,7 +8,7 @@ Skills: PHP / JS / SQL / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusolcar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunusolcar&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
