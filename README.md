@@ -24,4 +24,4 @@
 </p>
 <p>
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yunusolcar&show_icons=true&locale=en" alt="yunusolcar" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusolcar&show_icons=true&locale=en&layout=compact" width=355px; alt="yunusolcar" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunusolcar&show_icons=true&locale=en&layout=compact" width=35%; alt="yunusolcar" />
