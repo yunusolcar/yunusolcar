@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Yunus</h1>
 <h3 align="center">Jr. Backend Dev.</h3>
 
-<h3 align="left">Connect with me:</h3>
-
-<p>
-  <p align="left"> <a href="https://twitter.com/sird4nte" target="blank"><img src="https://img.shields.io/twitter/follow/sird4nte?logo=twitter&style=for-the-badge" alt="sird4nte" /></a> </p>
-<a href="https://linkedin.com/in/yunusolcar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunusolcar" height="30" width="40"/></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
