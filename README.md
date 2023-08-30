@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Yunus</>
+<h2 align="center">Hi, I'm Yunus 🥷</>
 <h5 align="center">Jr. Backend Dev.</>
 
 ### Socials:
